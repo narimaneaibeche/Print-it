@@ -1,7 +1,7 @@
 
 let slideIndex = 1;
 showSlides(slideIndex);
-
+// afficher le slide 
 function plusSlides(n) {
     showSlides(slideIndex += n);
 }
